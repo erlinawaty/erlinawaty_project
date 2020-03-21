@@ -1,0 +1,92 @@
+﻿
+<html>
+<head>
+     <title> PESONA DUNIA </title>
+</head>
+
+<body>
+<h1>Tabel Siswa </H1>
+
+<table border="1" width="900px">
+<tr bgcolor="Cyan">
+<td colspan="2" height="90px" align="center"> PESONA DUNIA </td>
+</tr>
+
+   <tr>
+<td width="600px" height="400px" bgcolor="yellow" valing="top">
+
+   <table border="1">
+   <tr align="center" bgcolor="red">
+       <td width="200px">Anggota</td>
+       <td width="200px">Tahun Kelahiran </td>
+       <td witdh="200px">Posisi </td>
+   </tr>
+
+   <tr align="center" >
+       <td width="200px"> Jay </td>
+       <td width="200px"> 1994 </td>
+       <td width="200px"> main vocal </td>
+   </tr>
+
+   <tr align="center" >
+       <td width="200px"> Song</td>
+       <td width="200px"> 1995 </td>
+       <td width="200px"> Visual </td>
+   </tr>
+
+   <tr align="center" >
+       <td width="200px"> Bobby </td>
+       <td width="200px"> 1995 </td>
+       <td width="200px"> Rapper </td>
+   </tr>
+
+   <tr align="center" bgcolor="pink">
+       <td width="200px"> BI </td>
+       <td width="200px"> 1996 </td>
+       <td width="200px"> Leader </td>
+   </tr>
+
+   <tr align="center" bgcolor="pink">
+       <td width="200px"> June </td>
+       <td width="200px"> 1997 </td>
+       <td width="200px"> main vocal </td>
+   </tr>
+
+   <tr align="center" bgcolor="pink">
+       <td width="200px"> DK </td>
+       <td width="200px"> 1997 </td>
+       <td width="200px"> main dancer </td>
+   </tr>
+
+   <tr align="center" bgcolor="pink">
+       <td width="200px"> Chan </td>
+       <td width="200px"> 1998 </td>
+       <td width="200px"> Maknae </td>
+   </tr>
+
+ </table>
+       <h1> Love Scenario-IKON</h1>
+
+    <video src="C:\Users\Public\Videos/iKON+-+‘사랑을+했다(LOVE+SCENARIO)’+M-V.mp4" controls>
+   
+ </td>
+<tr bgcolor="yellow">
+
+<td>
+     <img alt="foto Ikon1" src="file:///C:Users\Public\Pictures/ikon1.jpg" height="400px" width="600px">
+<video src="C:\Users\Public\Videos/iKON+-+'리듬+타(RHYTHM+TA)'+LIVE+PERFORMANCE.mp4" controls>
+</td>
+</tr>
+
+</tr>
+<tr bgcolor="cyan">
+<td colspan="2" height="120px" align="center">"Love Scenario" (Korean: 사랑을 했다; RR: Sarang-eul haetda) is a song recorded by South Korean boy group iKon. It was released as the lead single of their second studio album, Return.[2] The song holds the record for the most weeks at number one on the Gaon Digital Chart, spending six weeks at the top in early 2018. The song won "Song of the Year" at the 2018 Melon Music Awards and 33rd Golden Disc Awards. It is recognized as one of iKon's signature songs.
+
+</td>
+
+</tr>
+
+</body>
+</html>
+
+    https://github.com/waode29/waode29.github.io
